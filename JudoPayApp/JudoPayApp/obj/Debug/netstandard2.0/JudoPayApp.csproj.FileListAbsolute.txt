@@ -1,0 +1,12 @@
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\bin\Debug\netstandard2.0\JudoPayApp.deps.json
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\bin\Debug\netstandard2.0\JudoPayApp.dll
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.csprojAssemblyReference.cache
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.csproj.CoreCompileInputs.cache
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.AssemblyInfoInputs.cache
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.AssemblyInfo.cs
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\bin\Debug\netstandard2.0\JudoPayApp.pdb
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.dll
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\JudoPayApp.pdb
+C:\Users\Rogelio\source\repos\JudoPayApp\JudoPayApp\JudoPayApp\obj\Debug\netstandard2.0\XamlC.stamp
